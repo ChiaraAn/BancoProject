@@ -33,6 +33,5 @@ public class App
         cs.extraccionRapida(c1);
         cs.consultarSaldo(c1);
         cs.consultarDatos(c1);
-        /*hl
     }
 }
